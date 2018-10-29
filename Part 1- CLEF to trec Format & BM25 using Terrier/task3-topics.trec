@@ -1,0 +1,371 @@
+	<topic>
+		<id>1</id>
+		<title>Khun Narin’s Electric</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-14:00</begindate>
+		<enddate>04/12/15-16:30</enddate>
+	</topic>
+	<topic>
+		<id>2</id>
+		<title>Kokomo</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-16:00</begindate>
+		<enddate>04/12/15-16:40</enddate>
+	</topic>
+	<topic>
+		<id>3</id>
+		<title>Het Universumpje</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-16:30</begindate>
+		<enddate>04/12/15-17:15</enddate>
+	</topic>
+	<topic>
+		<id>4</id>
+		<title>O</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-17:10</begindate>
+		<enddate>04/12/15-17:50</enddate>
+	</topic>
+	<topic>
+		<id>5</id>
+		<title>Klangstof</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-17:45</begindate>
+		<enddate>04/12/15-18:30</enddate>
+	</topic>
+	<topic>
+		<id>6</id>
+		<title>Kaviar Special</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-18:20</begindate>
+		<enddate>04/12/15-19:00</enddate>
+	</topic>
+	<topic>
+		<id>7</id>
+		<title>Applescal</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-19:00</begindate>
+		<enddate>04/12/15-20:00</enddate>
+	</topic>
+	<topic>
+		<id>8</id>
+		<title>Organic Bananas</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-19:30</begindate>
+		<enddate>04/12/15-20:10</enddate>
+	</topic>
+	<topic>
+		<id>9</id>
+		<title>Swaggers</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-20:00</begindate>
+		<enddate>04/12/15:xx:xx</enddate>
+	</topic>
+	<topic>
+		<id>10</id>
+		<title>Kaang, Paradis</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-20:30</begindate>
+		<enddate>04/12/15-xx:xx</enddate>
+	</topic>
+	<topic>
+		<id>11</id>
+		<title>Sau Poler</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-20:30</begindate>
+		<enddate>04/12/15-22:00</enddate>
+	</topic>
+	<topic>
+		<id>12</id>
+		<title>DJ Crocodile</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-21:30</begindate>
+		<enddate>04/12/15-22:10</enddate>
+	</topic>
+	<topic>
+		<id>13</id>
+		<title>Binkbeats</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-22:00</begindate>
+		<enddate>04/12/15-23:00</enddate>
+	</topic>
+	<topic>
+		<id>14</id>
+		<title>The Dizzy Brains</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-22:10</begindate>
+		<enddate>04/12/15-23:00</enddate>
+	</topic>
+	<topic>
+		<id>15</id>
+		<title>Leopart Davinci</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-22:30</begindate>
+		<enddate>04/12/15-23:00</enddate>
+	</topic>
+	<topic>
+		<id>16</id>
+		<title>Son Little</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-23:00</begindate>
+		<enddate>04/12/15-23:50</enddate>
+	</topic>
+	<topic>
+		<id>17</id>
+		<title>Girls Girls Girls</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-23:00</begindate>
+		<enddate>04/12/15-00:30</enddate>
+	</topic>
+	<topic>
+		<id>18</id>
+		<title>Sau Poler Live</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-23:00</begindate>
+		<enddate>04/12/15-00:00</enddate>
+	</topic>
+	<topic>
+		<id>19</id>
+		<title>Totorro</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-23:40</begindate>
+		<enddate>04/12/15-00:40</enddate>
+	</topic>
+	<topic>
+		<id>20</id>
+		<title>Worakl Band</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-00:00</begindate>
+		<enddate>04/12/15-01:00</enddate>
+	</topic>
+	<topic>
+		<id>21</id>
+		<title>Claude</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-00:30</begindate>
+		<enddate>04/12/15-01:30</enddate>
+	</topic>
+	<topic>
+		<id>22</id>
+		<title>Grand Cannon</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-00:40</begindate>
+		<enddate>04/12/15-01:40</enddate>
+	</topic>
+	<topic>
+		<id>23</id>
+		<title>Fango</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-01:00</begindate>
+		<enddate>04/12/15-02:30</enddate>
+	</topic>
+	<topic>
+		<id>24</id>
+		<title>Vintage Trouble</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-01:30</begindate>
+		<enddate>04/12/15-02:30</enddate>
+	</topic>
+	<topic>
+		<id>25</id>
+		<title>Marc Pinol</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-01:30</begindate>
+		<enddate>04/12/15-03:15</enddate>
+	</topic>
+	<topic>
+		<id>26</id>
+		<title>Dralms</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-02:30</begindate>
+		<enddate>04/12/15-03:10</enddate>
+	</topic>
+	<topic>
+		<id>27</id>
+		<title>Mawibimbi Live</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-02:30</begindate>
+		<enddate>04/12/15-03:30</enddate>
+	</topic>
+	<topic>
+		<id>28</id>
+		<title>Leopard Davinci Live</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-03:10</begindate>
+		<enddate>04/12/15-04:10</enddate>
+	</topic>
+	<topic>
+		<id>29</id>
+		<title>&amp;Me</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-03:15</begindate>
+		<enddate>04/12/15-05:00</enddate>
+	</topic>
+	<topic>
+		<id>30</id>
+		<title>Dewolff</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-03:20</begindate>
+		<enddate>04/12/15-04:20</enddate>
+	</topic>
+	<topic>
+		<id>31</id>
+		<title>Jacques</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-03:30</begindate>
+		<enddate>04/12/15-04:45</enddate>
+	</topic>
+	<topic>
+		<id>32</id>
+		<title>Playground Zero</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-04:10</begindate>
+		<enddate>04/12/15-05:00</enddate>
+	</topic>
+	<topic>
+		<id>33</id>
+		<title>Le Galaxy</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-04:45</begindate>
+		<enddate>04/12/15-05:45</enddate>
+	</topic>
+	<topic>
+		<id>34</id>
+		<title>The Mekanism</title>
+		<festival>Transmusicales</festival>
+		<begindate>04/12/15-05:00</begindate>
+		<enddate>04/12/15-06:30</enddate>
+	</topic>
+	<topic>
+		<id>35</id>
+		<title>Aurora</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-15:00</begindate>
+		<enddate>18/07/15-16:00</enddate>
+	</topic>
+	<topic>
+		<id>36</id>
+		<title>Forabandit</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-15:30</begindate>
+		<enddate>18/07/15-16:40</enddate>
+	</topic>
+	<topic>
+		<id>37</id>
+		<title>Georges Ezra</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-16:15</begindate>
+		<enddate>18/07/15-17:15</enddate>
+	</topic>
+	<topic>
+		<id>38</id>
+		<title>Big Flo &amp; Oli</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-16:50</begindate>
+		<enddate>18/07/15-17:50</enddate>
+	</topic>
+	<topic>
+		<id>39</id>
+		<title>Tony Allen Review , Damon Albarn , Oxmo Puccino</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-17:30</begindate>
+		<enddate>18/07/15-18:40</enddate>
+	</topic>
+	<topic>
+		<id>40</id>
+		<title>Thylacine</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-18:30</begindate>
+		<enddate>18/07/15-19:30</enddate>
+	</topic>
+	<topic>
+		<id>41</id>
+		<title>Pevarlamm</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-18:30</begindate>
+		<enddate>18/07/15-19:30</enddate>
+	</topic>
+	<topic>
+		<id>42</id>
+		<title>Calogero</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-18:55</begindate>
+		<enddate>18/07/15-20:25</enddate>
+	</topic>
+	<topic>
+		<id>43</id>
+		<title>Isaac Desusion</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-20:10</begindate>
+		<enddate>18/07/15-21:10</enddate>
+	</topic>
+	<topic>
+		<id>44</id>
+		<title>Lindigo</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-20:30</begindate>
+		<enddate>18/07/15-21:45</enddate>
+	</topic>
+	<topic>
+		<id>45</id>
+		<title>The Strypes</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-20:35</begindate>
+		<enddate>18/07/15-21:45</enddate>
+	</topic>
+	<topic>
+		<id>46</id>
+		<title>The Shoes</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-21:50</begindate>
+		<enddate>18/07/15-23:05</enddate>
+	</topic>
+	<topic>
+		<id>47</id>
+		<title>The Prodigy</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-22:00</begindate>
+		<enddate>18/07/15-23:30</enddate>
+	</topic>
+	<topic>
+		<id>48</id>
+		<title>Fest Noz avec KerJean, Le Goff, Barba Loutig, Noguet, Talec, Fleuves</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-22:10</begindate>
+		<enddate>18/07/15-01:20</enddate>
+	</topic>
+	<topic>
+		<id>49</id>
+		<title>Sbtrkt</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-23:45</begindate>
+		<enddate>18/07/15-01:00</enddate>
+	</topic>
+	<topic>
+		<id>50</id>
+		<title>Madeon</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-23:45</begindate>
+		<enddate>18/07/15-01:00</enddate>
+	</topic>
+	<topic>
+		<id>51</id>
+		<title>Caribbean Dandee, Joeystar, Nathy, DJ Pone, Cut Killer, B.A.G.A.R.R.E.</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-01:30</begindate>
+		<enddate>18/07/15-03:00</enddate>
+	</topic>
+	<topic>
+		<id>52</id>
+		<title>Booger Ghetto Blaster Party</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-xx:xx</begindate>
+		<enddate>18/07/15-xx:xx</enddate>
+	</topic>
+	<topic>
+		<id>53</id>
+		<title>The Secret Church Orchestra</title>
+		<festival>Vieilles Charrues</festival>
+		<begindate>18/07/15-14:00</begindate>
+		<enddate>18/07/15-15:00</enddate>
+	</topic>

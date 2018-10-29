@@ -1,0 +1,1 @@
+bin\trec_terrier.bat -i && bin\trec_terrier.bat -r -Dtrec.topics=etc\task3-topics.trec -Dtrec.model=BM25 && bin\trec_terrier.bat -e -Dtrec.qrels=etc\task3_2016_all.qrels

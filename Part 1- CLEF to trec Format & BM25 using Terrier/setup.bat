@@ -1,0 +1,1 @@
+bin\trec_setup.bat ..\tweets
